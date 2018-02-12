@@ -21,6 +21,8 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'carrierwave'
 gem 'faker'
+gem 'fog'
+gem 'figaro'
 
 
 # Use CoffeeScript for .coffee assets and views
